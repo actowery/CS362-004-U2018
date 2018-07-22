@@ -1,0 +1,74 @@
+Unit Test 1:
+Unittest1 complete
+File 'dominion.c'
+Lines executed:0.15% of 646
+Branches executed:0.00% of 417
+Taken at least once:0.00% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 2:
+Unittest2 complete
+File 'dominion.c'
+Lines executed:2.01% of 646
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 3:
+File 'dominion.c'
+Lines executed:2.32% of 646
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 4:
+Unittest4 complete
+File 'dominion.c'
+Lines executed:4.18% of 646
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 1:
+Card test 1: Smithy
+smithy test passedFile 'dominion.c'
+Lines executed:24.30% of 646
+Branches executed:29.98% of 417
+Taken at least once:16.79% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 2:
+Card test 2: adventurer
+Test Failed = states not equivaent
+File 'dominion.c'
+Lines executed:25.39% of 646
+Branches executed:30.94% of 417
+Taken at least once:17.75% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 3:
+Card test 3: outpost
+Test Passed
+File 'dominion.c'
+Lines executed:25.85% of 646
+Branches executed:30.94% of 417
+Taken at least once:17.99% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 4:
+Card test 3: gardens
+Test 4 Passed
+File 'dominion.c'
+Lines executed:26.01% of 646
+Branches executed:30.94% of 417
+Taken at least once:18.23% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
