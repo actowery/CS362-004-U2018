@@ -1,0 +1,45 @@
+Unit Test 1:
+Unittest1 complete
+File 'dominion.c'
+Lines executed:0.16% of 639
+Branches executed:0.00% of 417
+Taken at least once:0.00% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 2:
+Unittest2 complete
+File 'dominion.c'
+Lines executed:2.03% of 639
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 3:
+File 'dominion.c'
+Lines executed:2.35% of 639
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Unit Test 4:
+Unittest4 complete
+File 'dominion.c'
+Lines executed:4.23% of 639
+Branches executed:6.71% of 417
+Taken at least once:2.40% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 1:
+Card test 1: Smithy
+smithy test failedFile 'dominion.c'
+Lines executed:24.73% of 639
+Branches executed:29.98% of 417
+Taken at least once:16.79% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
+Card Test 2:
